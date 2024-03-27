@@ -227,7 +227,7 @@ aside:
       link: https://space.bilibili.com/1373420171
   card_announcement:
     enable: true
-    content: Nothing
+    content: 推荐启用黑暗主题
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
